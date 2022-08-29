@@ -1,5 +1,5 @@
 <h1 align="center">=== Understanding MVC and why we should use it! ===</h1>
-<h5 align="center">A quick Lecture on MVC, what it is and why we should be using it.</h5>
+<h5 align="center">A quick lecture on MVC, what it is and why we should be using it.</h5>
 
 ![No Idea Dog](https://i.imgflip.com/6rjt27.jpg)
 
